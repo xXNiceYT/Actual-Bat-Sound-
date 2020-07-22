@@ -1,0 +1,6 @@
+name: CustomDeathSound
+main: NotBellwa\BatPacketFirst\main
+version: 0.0.1
+api:  3.14.1
+description: "Bat Packet Sound"
+author: NotBellwa
