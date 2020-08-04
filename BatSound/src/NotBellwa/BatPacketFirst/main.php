@@ -21,6 +21,5 @@ class main extends PluginBase implements Listener{
         $pk->volume = 100;
         $pk->pitch = 1;
         $player->sendDataPacket($pk);
-        return "PlaySoundPacket";
     }
 }
